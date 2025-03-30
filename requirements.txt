@@ -1,0 +1,5 @@
+opencv-python==4.7.0.72
+torch==2.0.1
+numpy==1.24.2
+ultralytics==8.0.40
+tkinter==8.6.12
