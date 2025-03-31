@@ -19,7 +19,7 @@ Follow these steps to set up the project on your local machine.
 
 1) Clone the repository:
 ```bash
-git clone https://github.com/yourusername/basketball-shot-tracker.git
+git clone https://github.com/akitaki79/AI-Shot-Tracker.git
 cd basketball-shot-tracker
 ```
 
